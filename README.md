@@ -1,6 +1,6 @@
 # Telegram Chat Exporter
 
-This Python script leverages the Telethon library to extract and convert Telegram conversations into HTML format, complete with media downloads. It's tailored for exporting messages from private chats, groups, and channels.
+This Python script leverages the Telethon library to extract and convert Telegram conversations into HTML format, complete with media downloads. It's tailored for exporting messages from private chats, groups, and channels. This tool works especially well in the event where you can not get telegram installed on the host device.
 
 ## Features
 
